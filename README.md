@@ -13,9 +13,9 @@ Welcome to Sci-Bot, your intelligent companion for computer science-related ques
 2. **Get an Answer:** Sci-Bot will analyze your question and provide the best answer it knows.
 3. **Teach Sci-Bot:** If Sci-Bot doesn't know the answer, you can teach it by providing the correct response.
 
-![Sci-Bot Interface](insert_image_link_here)
+![Sci-Bot Interface](https://drive.google.com/file/d/1Zp2OfphU4VRTDT2A9Wyy_B4kDKG6ALQE/view?usp=drive_link)
 
-[Demo Link](insert_demo_link_here)
+[Demo Link](https://drive.google.com/file/d/1xwDJhgNcFmmNgbAAgjR1O5D7hv1Ntv2u/view?usp=drive_link)
 
 ## My Thought Process to Create This Bot
 - Task was to create a NLP chatbot, so I decided to create one from scratch.
