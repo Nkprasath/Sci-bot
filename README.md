@@ -25,8 +25,9 @@ To run Sci-Bot locally, follow these steps:
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Flask application with `python app.py`.
 4. Open your web browser and navigate to `http://localhost:5000` to start chatting with Sci-Bot.
+
 or 
-run using `bash scibot.sh`
+Run using `bash scibot.sh`
 
 ## Contributing
 
