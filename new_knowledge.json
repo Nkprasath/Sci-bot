@@ -1,0 +1,24 @@
+{
+  "question": [
+    {
+      "question": "hi",
+      "answer": "hello there!"
+    },
+    {
+      "question": "What is your name?",
+      "answer": "Sci-Bot"
+    },
+    {
+      "question": "Do you have a name?",
+      "answer": "Yes, It's Sci-Bot!"
+    },
+    {
+      "question": "Do you know your name?",
+      "answer": "Sci-Bot!"
+    },
+    {
+      "question": "Bye",
+      "answer": "Nice talking with you!"
+    }
+  ]
+}

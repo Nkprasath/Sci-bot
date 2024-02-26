@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff5d7;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    height: 100vh;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; /* Add space between the child elements */
+    margin: 20px;
+}
+
+.float-child {
+    padding: 20px;
+    border: 2px solid;
+    margin: 20px;
+    flex-grow: 1;
+    white-space: nowrap;
+}
+
+.float-child:first-child {
+    margin-right: 50px;
+}
+
+.float-child:last-child {
+    margin-left: 40px;
+}
+
+img {
+    margin-top: 20px; /* Adjust margin to center image vertically */
+}
+.explain {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.explain h3 {
+    font-size: 18px; /* Increase font size */
+    line-height: 1.5; /* Increase line height for better readability */
+    color: #333; /* Dark gray text color */
+}

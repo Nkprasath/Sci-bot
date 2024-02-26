@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" type="text/css" href="/static/style2.css">
+</head>
+<body>
+    <h1>How the Chatbot works?</h1>
+    <h2>How the Chatbot works?</h2>
+    <img src="/static/process.png" alt="Process diag">
+    <div class="explain">
+        <h3>The database is from kaggle, which contains basic questions about computer science. I trained the dataset with a simple DNN model. The chatbot answers from the trained data, and if an unknown question is asked, it learns from the user. The newly learnt answers are stored in a separate JSON file along with the question. Next time a user asks a question, the bot tries to get answers from both the training data and newly created JSON. The bot matches with the closest answer and sends it to the front end.</h3>
+    </div>
+    <div class="float-container">
+
+        <div class="float-child">
+          <div class="green"><h3>Features of Chatbot</h3></div>
+            <ul>
+                <li>Answers basic questions related to computer science.</li>
+                <li>Model has about 82% accuracy.</li>
+                <li>Can learn from user, if the chatbot does not know.</li>
+                <li>Used natural language processing concepts like:  lemmatization and bag of words.</li>
+            </ul>
+        </div>
+
+        <div class="float-child">
+          <div class="blue"><h3>Challenges faced while developing</h3></div>
+            <ul>
+                <li>Faced difficulty in creating the teaching logic using JS.</li>
+                <li>Opted to use JS for the logic as it would be far simpler to develop than having the logic in app.py</li>
+            </ul>
+        </div>
+
+      </div>
+</body>
+</html>
