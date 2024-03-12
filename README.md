@@ -16,7 +16,6 @@ Welcome to Sci-Bot, your intelligent companion for computer science-related ques
 ![Sci-Bot Interface](https://github.com/Nkprasath/Sci-bot/assets/64826468/2c83c1c7-18b0-44ab-8fd9-414341ed7fde)
 
 
-[Demo video Link](https://youtu.be/wZMji8_Bf1U)
 
 ## My Thought Process to Create This Bot
 - Task was to create a NLP chatbot, so I decided to create one from scratch.
